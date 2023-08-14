@@ -181,14 +181,6 @@ label::after{
     transition: transform 0.5s;
 }
 
-label::after{
-    content: 'x';
-    font-size: 34px;
-    position: absolute;
-    right: 20px;
-    transition: transform 0.5s;
-}
-
 input[type="radio"]{
     display: none;
 }
